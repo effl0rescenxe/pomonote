@@ -14,13 +14,13 @@ I plan to add more features to help studying, such as a pomorodo timer.
 ## Folder Structure
 
 study-site/
---app.py
---templates/
-    --home.html
-    --login.html
---static/
-    --style.css
---README
+├── app.py
+├── templates/
+│   ├── home.html
+│   └── login.html
+├── static/
+│   └── style.css
+└── README.md
 
 ## Others
 
