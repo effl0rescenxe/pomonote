@@ -13,6 +13,8 @@ I plan to add more features to help studying, such as a pomorodo timer.
 
 ## Folder Structure
 
+<pre>
+```
 study-site/
 ├── app.py
 ├── templates/
@@ -21,6 +23,9 @@ study-site/
 ├── static/
 │   └── style.css
 └── README.md
+```
+</pre>
+
 
 ## Others
 
